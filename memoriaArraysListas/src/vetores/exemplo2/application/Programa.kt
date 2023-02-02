@@ -4,7 +4,7 @@ import vetores.exemplo2.entities.Product
 import java.util.*
 
 fun main() {
-    Locale.setDefault(Locale.US);
+    Locale.setDefault(Locale.US)
 
     val n = readln().toInt()
 
