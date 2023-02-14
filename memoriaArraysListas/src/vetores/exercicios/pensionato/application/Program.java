@@ -10,7 +10,7 @@ public class Program {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        Inquilino[] quartos = new Inquilino[9];
+        Inquilino[] quartos = new Inquilino[10];
 
         System.out.print("Quantos quartos vão ser alugados? ");
         int n = sc.nextInt();
@@ -30,7 +30,7 @@ public class Program {
         System.out.println("Quartos ocupados: ");
         for(Inquilino quarto: quartos) {
             if(quarto != null) {
-                System.out.println(quarto.toString());
+                System.out.println(quarto);
             }
         }
 
