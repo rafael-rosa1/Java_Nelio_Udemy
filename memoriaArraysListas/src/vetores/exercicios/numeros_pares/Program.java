@@ -1,6 +1,5 @@
-package vetores.exercicios.exercicio4;
+package vetores.exercicios.numeros_pares;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.util.Locale;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package vetores.exercicios.exercicio3.entitites;
+package vetores.exercicios.alturas.entitites;
 
 public class Person {
     String name;

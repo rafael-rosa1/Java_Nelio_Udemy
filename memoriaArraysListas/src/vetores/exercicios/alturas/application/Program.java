@@ -1,6 +1,6 @@
-package vetores.exercicios.exercicio3.application;
+package vetores.exercicios.alturas.application;
 
-import vetores.exercicios.exercicio3.entitites.Person;
+import vetores.exercicios.alturas.entitites.Person;
 
 import java.util.Locale;
 import java.util.Scanner;

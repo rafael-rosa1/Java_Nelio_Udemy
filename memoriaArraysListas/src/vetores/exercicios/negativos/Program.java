@@ -1,4 +1,4 @@
-package vetores.exercicios.exercicio1;
+package vetores.exercicios.negativos;
 
 import java.util.Locale;
 import java.util.Scanner;

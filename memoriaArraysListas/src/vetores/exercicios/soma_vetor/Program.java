@@ -1,4 +1,4 @@
-package vetores.exercicios.exercicio2;
+package vetores.exercicios.soma_vetor;
 
 import java.util.Locale;
 import java.util.Scanner;
