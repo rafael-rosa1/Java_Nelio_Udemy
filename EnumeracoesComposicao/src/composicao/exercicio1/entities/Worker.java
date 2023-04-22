@@ -1,6 +1,6 @@
-package composicao.entities;
+package composicao.exercicio1.entities;
 
-import composicao.entities.enums.WorkerLevel;
+import composicao.exercicio1.entities.enums.WorkerLevel;
 
 import java.util.ArrayList;
 import java.util.List;

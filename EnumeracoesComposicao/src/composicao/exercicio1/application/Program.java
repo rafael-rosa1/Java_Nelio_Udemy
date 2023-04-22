@@ -1,9 +1,9 @@
-package composicao.application;
+package composicao.exercicio1.application;
 
-import composicao.entities.Department;
-import composicao.entities.HourContract;
-import composicao.entities.Worker;
-import composicao.entities.enums.WorkerLevel;
+import composicao.exercicio1.entities.Department;
+import composicao.exercicio1.entities.HourContract;
+import composicao.exercicio1.entities.Worker;
+import composicao.exercicio1.entities.enums.WorkerLevel;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
